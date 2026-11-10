@@ -74,4 +74,8 @@ This project demonstrates foundational front-end development skills through the 
 
 **Kyle Buckley**
 
-GitHub: [@Kbuck2290](https://github.com/Kbuck2290)
+GitHub: [@Kbuck2290](https://github.com/Kbuck2290) 
+
+## Live Demo
+
+🌐 [View the Live Website](https://kbuck2290.github.io/coffee-enthusiasts-club/)
